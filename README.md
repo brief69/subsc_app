@@ -1,3 +1,3 @@
 # dsr_front (Distributed Subscription)
 
-## Free running subscription apps
+## Free running subscription Dimen
